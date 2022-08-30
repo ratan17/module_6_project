@@ -1,0 +1,13 @@
+.content{
+    text-align: center;
+}
+
+h1.heading{
+    background-color: aliceblue;
+    font-weight: 400;
+}
+
+form{
+    padding:0% 10%;
+    text-align: left;
+}
